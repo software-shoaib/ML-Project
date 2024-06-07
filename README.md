@@ -20,4 +20,4 @@ By following this structured approach, I ensured that the project is well-organi
 
 This is Project UI:
 
-<img src="[Project UI](https://github.com/software-shoaib/ML-Project/blob/main/PROJECT%20UI.png).jpg" alt="Alt text" title="Optional title">
+<img src="https://github.com/software-shoaib/ML-Project/blob/main/PROJECT%20UI.png" alt="Alt text" title="Optional title">
