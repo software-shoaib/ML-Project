@@ -1,4 +1,4 @@
-## End to End Machine Learning Project
+## Student Exam Performance Indicator
 
 In this project, I developed a machine learning model to predict the marks of a subject based on the marks obtained in other subjects. The project follows a standardized format and includes several key components:
 
