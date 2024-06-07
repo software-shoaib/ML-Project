@@ -17,3 +17,7 @@ Flask Integration: Created a Flask application to serve the model and provide an
 Virtual Environment: Set up a virtual environment to manage dependencies and ensure a consistent development setup.
 
 By following this structured approach, I ensured that the project is well-organized, modular, and easy to maintain.
+
+This is Project UI:
+
+<img src="Project UI.jpg" alt="Alt text" title="Optional title">
